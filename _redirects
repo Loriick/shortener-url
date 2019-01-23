@@ -1,4 +1,5 @@
-/example http://example.com
+/iphone_amazon   https://www.amazon.fr/Apple-iPhone-Smartphone-d%C3%A9bloqu%C3%A9-Ecran/dp/B075LXNK24
+/example         http://example.com
 
-# fallback
-/* http://loriick.com
+#fallback
+/*               http://loriick.com
